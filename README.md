@@ -27,7 +27,14 @@ From the following chart, we can see the results by school using the full studen
 
 
 
-A summary of the results with the Thomas High School passing percentages calculated as a percent of the total students at the school looks like this:
+A summary of the results with the Thomas High School passing percentages calculated as a percent of the total students at the school show that at 66.9% Passing math and 69.66 passing reading, the scores look low.
+
+<https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Summary_by_school_before.PNG>
+
+  
+However, after changing the denominator to exclude the 9th graders, the passing percents go up to 93.2% for math and 96.9% for passing reading as shown in the following chart:
+
+<
 
 
 
