@@ -19,4 +19,13 @@ A comparison of the relevant statistics before and after changing the 9th grades
 | 9th Grade Thomas student count| 461| 461|
 | Average Passing Math% District wide | 75.0 | 74.8|
 | Average Passing Reading% District wide | 85.8 | 85.7|
+  
+The district analysis is mis-leading because it removes the scores for the 9th graders at Thomas High School but still divides the remaining scores by the same denominator.  So it looks like the passing percent is going down when in fact, it may be going up.  Therefore it is necessary to dig deeper to see what is really going on.
+
+A summary of the results with the Thomas High School passing percentages calculated as a percent of the total students at the school looks like this:
+
+
+
+
+
 
