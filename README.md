@@ -10,3 +10,13 @@ In order to replace the scores in the dataframe student_data_df, the ```loc``` f
 
 >```student_data_df.loc[(student_data_df["grade"]== "9th") ```
 ```& (student_data_df["school_name"]== "Thomas High School"),["reading_score"]]=np.nan```
+  
+A comparison of the relevant statistics before and after changing the 9th grades scores for the District as a whole usng the total students as the denominator for both:  
+  
+||Before Change | After Change|
+|----------|---------------|---------------|
+| Total Student Count | 39,170 | 38,709 |
+| 9th Grade Thomas student count| 461| 461|
+| Average Passing Math% District wide | 75.0 | 74.8|
+| Average Passing Reading% District wide | 85.8 | 85.7|
+
