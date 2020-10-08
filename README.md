@@ -6,3 +6,7 @@ The original School District Analysis used two datasets to produce a grid of sta
 # ANALYSIS
 Since the school analysis code had already been written for the first analysis, that code is used as a basis for the new analysis.  The first difference, however, is to take the combined data set that had been cleaned already, and to replace all the 9th grade test scores for both reading and math with the NaN value.  In order to do this, the Numpy dependency is imported along with Pandas.  Numpy contains the .NaN value that is used to replace the real scores. 
   ```import numpy as np```
+In order to replace the scores in the dataframe student_data_df, the ```loc``` funciton is used to identify the particular school and grade and score that is going to be replaced as shown in the following code:  
+
+>```student_data_df.loc[(student_data_df["grade"]== "9th") ```
+```& (student_data_df["school_name"]== "Thomas High School"),["reading_score"]]=np.nan```
