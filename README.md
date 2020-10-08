@@ -11,7 +11,7 @@ In order to replace the scores in the dataframe student_data_df, the ```loc``` f
 >```student_data_df.loc[(student_data_df["grade"]== "9th") ```
 ```& (student_data_df["school_name"]== "Thomas High School"),["reading_score"]]=np.nan```
   
-A comparison of the relevant statistics before and after changing the 9th grades scores for the District as a whole usng the total students as the denominator for both:  
+1.  A comparison of the relevant statistics before and after changing the 9th grades scores for the District as a whole usng the total students as the denominator for both:  
   
 ||Before Change | After Change|
 |----------|---------------|---------------|
@@ -22,7 +22,7 @@ A comparison of the relevant statistics before and after changing the 9th grades
   
 The district analysis is mis-leading because it removes the scores for the 9th graders at Thomas High School but still divides the remaining scores by the same denominator.  So it looks like the passing percent is going down when in fact, it may be going up.  Therefore it is necessary to dig deeper to see what is really going on.
 
-From the following chart, we can see the results by school using the full students as a basis of the calculation:
+2.  From the following chart, we can see the results by school using the full students as a basis of the calculation:
 
 
 
