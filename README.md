@@ -62,5 +62,14 @@ Top Schools after removing 9th grade at THS:
 
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Rank%20by%20school.PNG)
 
+4. AFFECT ON MATH AND READING SCORES BY GRADE
+
+5. AFFECT ON SCORES BY SCHOOL SPENDING
+
+
+6. AFFECT ON SCHORES BY SCHOOL SIZE
+
+
+7. AFFECT ON SCORES BY SCHOOL TYPE
 
 
