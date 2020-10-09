@@ -83,11 +83,21 @@ The math scores by grade after the 9th grade scores are removed are as follows:
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
 
 5. AFFECT ON SCORES BY SCHOOL SPENDING
+
+The effect on the statistics by school spending is so small, that the figures must be shown out to 2 decimals to see any difference.  The only buckect that changed is the one that contains THS which is $630-644
+
+Results by Budget Bin before removing 9th grade scores:
+
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/bofre%20spending.PNG)
+
+Results by Budget Bin after removing 9th grade scores:
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20budget.PNG)
 
 
 6. AFFECT ON SCORES BY SCHOOL SIZE
+
+Likewise, there was no noticeable change in overall results based on school size:
+
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20size.PNG)
 ![]( https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20size.PNG)
   
