@@ -20,7 +20,7 @@ In order to replace the scores in the dataframe student_data_df, the ```loc``` f
 | Average Passing Math% District wide | 75.0 | 74.8|
 | Average Passing Reading% District wide | 85.8 | 85.7|
   
-the District Summary figures calculated in the analysis both before and after removing the 9th grade scores, use the total student count in the denominator.  This isn't quite right for a proper comparison because it is like 461 students getting all 0s and averaging that in.  This will cause the passing scores to go down overall.  
+The District Summary figures calculated in the analysis both before and after removing the 9th grade scores, use the total student count in the denominator.  This isn't quite right for a proper comparison because it is like 461 students getting all 0s and averaging that in.  This will cause the passing scores to go down overall.  
 
 The District Summary before the change looked like this:
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Dist_Sum_before.PNG)
@@ -102,7 +102,19 @@ Likewise, there was no noticeable change in overall results based on school size
 ![]( https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20size.PNG)
   
 7. AFFECT ON SCORES BY SCHOOL TYPE
-  
+These before and after exhibits would need to go out several decimals as well to show any difference.  
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20by%20district.PNG) 
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20type.PNG) 
+
+## SUMMARY
+
+The four major changes to the analysis that occurred are:
+
+1.  There was an overall decrease in math, reading and overall weighted average scores for the District after removing the 9th grade scores;
+2.  There was no change in school rank even after removing the 9th grade scores;
+3.  The spending bin of 600-644 average test scores were slightly reduced;
+4.  The Thomas High School average passing percent for reading went down from 97.3% to 96.9%.
+
+Overall, there was only a slight change to school statistics which means that there may not have been anything unusual going on with the 9th grade results at Thomas High School.  
+
 
