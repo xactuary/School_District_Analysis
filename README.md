@@ -74,7 +74,7 @@ The reading scores by grade after the 9th grade scores are removed are as follow
   
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
   
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20math.PNG)
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20math.PNG)
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
 
 5. AFFECT ON SCORES BY SCHOOL SPENDING
