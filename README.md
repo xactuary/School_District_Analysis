@@ -66,8 +66,13 @@ Top Schools after removing 9th grade at THS:
 
 There is no affect on the math and reading scores for any grade except the 9th grade for THS.  
 
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
+The reading scores by grade before the 9th grade scores are removed are as follows:
+  
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/befiore%20reading.PNG)
+
+The reading scores by grade after the 9th grade scores are removed are as follows:
+  
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
   
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20math.PNG)
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
