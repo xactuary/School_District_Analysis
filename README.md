@@ -20,7 +20,13 @@ In order to replace the scores in the dataframe student_data_df, the ```loc``` f
 | Average Passing Math% District wide | 75.0 | 74.8|
 | Average Passing Reading% District wide | 85.8 | 85.7|
   
-The revised district analysis is somewhat mis-leading because it removes the scores for the 9th graders at Thomas High School but still divides the remaining scores by the same denominator of total students including the 9th graders.  So it looks like the passing percent is going down when in fact that might not be accurate.  Therefore it is necessary to dig deeper to see what is really going on.
+The Districty Summary before the change looked like this:
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Summary_by_school-after.PNG)
+  
+After the removal of THS 9th graders, the district summary looks like this:
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Summary_by_school-after.PNG)
+ 
+
 
 2.  SCHOOL SUMMARY - A summary of the results with the THS passing percentages calculated as a percent of the total students at the school show that at 66.9% passing math and 69.66 passing reading, the scores look low.
 
