@@ -56,6 +56,7 @@ So there was a slight decrease in the passing percentage overall after removing 
 3.  THOMAS HIGH SCHOOL VERSUS OTHER SCHOOLS - Removing the ninth graders' math and reading scores for Thomas High School moved the school overall passing score from 90.95% to  90.63%.  This small decrease did not change the schools range based on overall score as compared to other schools.  They are still then 2nd highest scores. 
 
 Top Schools before removing 9th grade at THS:
+![]( https://github.com/xactuary/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
   
 Top Schools after removing 9th grade at THS:
 
