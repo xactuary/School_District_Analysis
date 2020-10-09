@@ -68,7 +68,7 @@ There is no affect on the math and reading scores for any grade except the 9th g
 
 The reading scores by grade before the 9th grade scores are removed are as follows:
   
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/befiore%20reading.PNG)
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20reading.PNG)
 
 The reading scores by grade after the 9th grade scores are removed are as follows:
   
