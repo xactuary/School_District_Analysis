@@ -64,7 +64,13 @@ Top Schools after removing 9th grade at THS:
 
 4. AFFECT ON MATH AND READING SCORES BY GRADE
 
+There is no affect on the math and reading scores for any grade except the 9th grade for THS.  
+
+![]( https://github.com/xactuary/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
+
 5. AFFECT ON SCORES BY SCHOOL SPENDING
+
+
 
 
 6. AFFECT ON SCHORES BY SCHOOL SIZE
