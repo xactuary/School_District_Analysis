@@ -21,7 +21,7 @@ In order to replace the scores in the dataframe student_data_df, the ```loc``` f
 | Average Passing Reading% District wide | 85.8 | 85.7|
   
 The Districty Summary before the change looked like this:
-![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Summary_by_school-after.PNG)
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Dist_Sum_before.PNG)
   
 After the removal of THS 9th graders, the district summary looks like this:
 ![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/Summary_by_school-after.PNG)
