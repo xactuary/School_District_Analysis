@@ -56,7 +56,7 @@ So there was a slight decrease in the passing percentage overall after removing 
 3.  THOMAS HIGH SCHOOL VERSUS OTHER SCHOOLS - Removing the ninth graders' math and reading scores for Thomas High School moved the school overall passing score from 90.95% to  90.63%.  This small decrease did not change the schools range based on overall score as compared to other schools.  They are still then 2nd highest scores. 
 
 Top Schools before removing 9th grade at THS:
-![]( https://github.com/xactuary/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
   
 Top Schools after removing 9th grade at THS:
 
@@ -66,16 +66,23 @@ Top Schools after removing 9th grade at THS:
 
 There is no affect on the math and reading scores for any grade except the 9th grade for THS.  
 
-![]( https://github.com/xactuary/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/top%20schools%20before.PNG)
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/befiore%20reading.PNG)
+  
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20math.PNG)
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20reading.PNG)
 
 5. AFFECT ON SCORES BY SCHOOL SPENDING
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/bofre%20spending.PNG)
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20budget.PNG)
 
 
-
-
-6. AFFECT ON SCHORES BY SCHOOL SIZE
-
-
+6. AFFECT ON SCORES BY SCHOOL SIZE
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20size.PNG)
+![]( https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20size.PNG)
+  
 7. AFFECT ON SCORES BY SCHOOL TYPE
-
+  
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/before%20by%20district.PNG) 
+![](https://github.com/xactuary/School_District_Analysis/blob/master/Resources/after%20type.PNG) 
 
